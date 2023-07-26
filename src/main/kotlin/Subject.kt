@@ -1,0 +1,1 @@
+data class Subject (var Sub_name:String,var grade:Double)
